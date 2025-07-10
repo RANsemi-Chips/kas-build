@@ -4,6 +4,6 @@ header:
     - pc805-base.yml
 
 repos:
-  meta-picocom:
-    commit: e1063f32becefc0eb8e872ee8a1aa7b406ec26d6 # PC805-v1.2.1
-    branch: rel/pc805/linux-v5.4.147
+  meta-ransemi:
+    commit: 9533c438a29c856ddee3e4a7346e9fe5ccc7e3a1 # PC805-v1.2.1
+    branch: main
